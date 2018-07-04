@@ -1,0 +1,12 @@
+diku_111_0.jpg  scene_0.jpg   0.023541382
+diku_111_0.jpg  scene_1.jpg   -0.02078951
+diku_111_0.jpg  scene_2.jpg   0.007396328
+diku_222_0.jpg  scene_0.jpg   0.06998548
+diku_222_0.jpg  scene_1.jpg   -0.0031120516
+diku_222_0.jpg  scene_2.jpg   0.060635522
+diku_333_0.jpg  scene_0.jpg   -0.017178698
+diku_333_0.jpg  scene_1.jpg   0.0020082034
+diku_333_0.jpg  scene_2.jpg   0.08056775
+diku_444_0.jpg  scene_0.jpg   0.025129901
+diku_444_0.jpg  scene_1.jpg   0.025945267
+diku_444_0.jpg  scene_2.jpg   0.025345035

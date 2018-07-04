@@ -1,0 +1,177 @@
+[
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    550, 
+                    580
+                ], 
+                [
+                    806, 
+                    580
+                ], 
+                [
+                    806, 
+                    938
+                ], 
+                [
+                    550, 
+                    938
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/diku_111.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    107, 
+                    63
+                ], 
+                [
+                    209, 
+                    63
+                ], 
+                [
+                    209, 
+                    192
+                ], 
+                [
+                    107, 
+                    192
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/diku_222.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    63, 
+                    29
+                ], 
+                [
+                    127, 
+                    29
+                ], 
+                [
+                    127, 
+                    116
+                ], 
+                [
+                    63, 
+                    116
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/diku_333.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    77, 
+                    66
+                ], 
+                [
+                    197, 
+                    66
+                ], 
+                [
+                    197, 
+                    234
+                ], 
+                [
+                    77, 
+                    234
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/diku_444.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    256, 
+                    71
+                ], 
+                [
+                    300, 
+                    71
+                ], 
+                [
+                    300, 
+                    132
+                ], 
+                [
+                    256, 
+                    132
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/scene.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    36, 
+                    138
+                ], 
+                [
+                    59, 
+                    138
+                ], 
+                [
+                    59, 
+                    162
+                ], 
+                [
+                    36, 
+                    162
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/scene.jpg"
+    }
+},
+{
+    "data": {
+        "attribute": {
+            "pts": [
+                [
+                    169, 
+                    208
+                ], 
+                [
+                    198, 
+                    208
+                ], 
+                [
+                    198, 
+                    239
+                ], 
+                [
+                    169, 
+                    239
+                ]
+            ]
+        }, 
+        "uri": "http://8086yr.com1.z0.glb.clouddn.com/scene.jpg"
+    }
+}
+]
