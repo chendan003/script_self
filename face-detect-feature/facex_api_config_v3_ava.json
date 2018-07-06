@@ -1,14 +1,1 @@
-{
-    "ava_auth_conf": {
-        "access_key": "Sj2l3BjGqs47X7fxS_JtrBIsyn2StiV1RI8dppqR",
-        "secret_key": "DXVZR5iqJlHw7EiWTYrsAgmcV4pVrN8Tb0vfO_Lg",
-        "auth": "qiniu/mac"
-    },
-    "Authorization": "QiniuStub uid=1&ut=2",
-    "facex_det_url": "http://serve.atlab.ai/v1/eval/facex-detect",
-    "facex_age_url": "http://serve.atlab.dev.qiniu.io/v1/eval/facex-age",
-    "facex_gender_url": "http://serve.atlab.dev.qiniu.io/v1/eval/facex-gender",
-    "facex_feature_url": " http://serve.atlab.ai/v1/eval/facex-feature-v3",
-    "facex_cluster_url": "http://ava-argus-gate.cs.cg.dora-internal.qiniu.io:5001/v1/face/cluster",
-    "bucket_url": "http://osjyv5zwq.bkt.clouddn.com/"
-}
+
