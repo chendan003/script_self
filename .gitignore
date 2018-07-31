@@ -1,0 +1,76 @@
+# temp
+*~
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.log
+
+# Folders
+_obj
+_test
+**/.vscode/
+**/.ipynb_checkpoints/
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
+# images
+*.JPEG
+
+#IDEA IDE
+**/.idea/
+*.iml
+*.result
+*.caffemodel
+*caffemodel
+**/bin/
+**/pkg/
+**/ai-apigate/
+!application/pgo/**/python/
+**/auditlog/
+*.so*
+
+#Image
+-*.bmp
+-*.png
+-*.jpeg
+-*.jpg
+**.log
+
+sourceCacher/
+*.pyc
+*.swp
+*.zip
+*.tar
+*.gzip
+*.pem
+# CMAKE
+*/build/
+mcrr/CMakeFiles/*
+*.caffemodel
+
+# qrsctl 
+bob_dylan/qrsctl
+
+# docker build
+docker/fetchimages/bob_dylan/*
+docker/fetchimages/common/*
+*.sw[po]
+*bin
+*.pyc
+.DS_Store
