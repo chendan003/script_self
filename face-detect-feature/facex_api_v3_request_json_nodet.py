@@ -61,19 +61,6 @@ def load_config_file(config_json):
     return configs
 
 
-# Product env auth
-# conf={
-#    "access_key": "yvkBAhylLK6HTrhU644UcFiVeFhRMR4geKGB1Prt",
-#    "secret_key": "1Kfm9tUJURJWxYFHWL1X-HuVVFMMEPwn2S4j5EoW",
-#    "auth": "qiniu/mac"
-#}
-
-# CS env auth
-# conf={
-#    "access_key": "cThFVgwOXUfcpe3QWsovRn4xG8tSF20KTT6QOoPG",
-#    "secret_key": "gE_GKmqhbiC89Lyghtu6r5fU1_Xf0x_7dEMdCDl_",
-#    "auth": "qiniu/mac"
-#}
 
 def send_request_to_url(url, data, header=None, token=None):
     hdr = {'content-type': 'application/json'}

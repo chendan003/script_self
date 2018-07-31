@@ -233,9 +233,6 @@ def visualize_response(input_response_file, src_save_dir, output_save_dir=None, 
             print('--->Try to load saved local image: ' + local_save_name)
 
             if isinstance(local_save_name, unicode):
-                #                utf_name = local_save_name.encode('utf-8')
-                #                print('type(utf_name): ' + str(type(utf_name)))
-                #                print('utf_name: ' + utf_name)
                 #                img = cv2.imread(utf_name)
                 img = cv2_imread_unicode(local_save_name)
             else:
